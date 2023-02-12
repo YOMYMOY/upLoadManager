@@ -12,7 +12,7 @@
           <a href="/products/add-one-image" class="btn btn-outline-dark">Agregar</a>
         </div>
         <hr>
-        <section class="row">
+        <section class="row mb-5">
           <% productsOneImage.forEach(product => { %>
             <div class="col-12 col-md-4 col-lg-3">
               <%- include('./partials/cardOneImage',{
@@ -21,6 +21,17 @@
             </div>
           <% }) %>
           
+        </section>
+
+        <div class="d-flex justify-content-between">
+          <h2>Productos con VARIAS imágenes</h2>
+          <a href="/products/add-multiple-images" class="btn btn-outline-dark">Agregar</a>
+        </div>
+        <hr>
+        <section class="row mb-5">
+          <div class="col-12 col-md-4 col-lg-3">
+            <%- include('./partials/cardMultipleImages') %>
+          </div>
         </section>
       </div>
 

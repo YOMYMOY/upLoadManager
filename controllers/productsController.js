@@ -21,6 +21,20 @@ module.exports = {
         return res.redirect('/');
     },
     detailOneImage : (req,res) => {
-        return res.render('detailOneImage');
+        const products = readJSON('productsOneImage.json');
+        const product = products.find(product => product.id === +req.params.id);
+        return res.render('detailOneImage', {
+            ...product
+        });
+
+    },
+    addMultipleImages : (req,res) => {
+        return res.render('addMultipleImages');
+    },
+    storeMultipleImages : (req,res) => {
+        return res.send(req.files);
+    },
+    detailMultipleImages : (req,res) => {
+        return res.render('detailMultipleImages');
     }
 }
