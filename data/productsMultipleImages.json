@@ -1,0 +1,32 @@
+[
+   {
+      "id": 1,
+      "name": "Mouse Glorious",
+      "description": "lorem ipsum dolor amet sit",
+      "images": [
+         "1677109288022_products_mouse01.jpg",
+         "1677109288023_products_mouse02.jpg",
+         "1677109288023_products_mouse03.jpg"
+      ]
+   },
+   {
+      "id": 2,
+      "name": "Teclado mecánico HP",
+      "description": "lorem ipsum dolor amet sit",
+      "images": [
+         "1677109362760_products_keyboard01.jpg",
+         "1677109362760_products_keyboard02.jpg",
+         "1677109362760_products_keyboard03.jpg"
+      ]
+   },
+   {
+      "id": 3,
+      "name": "Parlantes Logitech",
+      "description": "lorem ipsum dolor amet sit",
+      "images": [
+         "1677109399637_products_buff01.jpg",
+         "1677109399637_products_buff02.jpg",
+         "1677109399637_products_buff03.jpg"
+      ]
+   }
+]

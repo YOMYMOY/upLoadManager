@@ -4,5 +4,41 @@
       "name": "Fuente de agua en la mesa",
       "description": "lorem ipsum dolor amet sit",
       "image": "1676082132816_products_.jpg"
+   },
+   {
+      "id": 2,
+      "name": "Procesador Ryzen 5",
+      "description": "lorem ipsum dolor amet sit",
+      "image": "1677108692937_products_.jpg"
+   },
+   {
+      "id": 3,
+      "name": "Procesador Ryzen 7",
+      "description": "lorem ipsum dolor amet sit",
+      "image": "1677108719282_products_.jpg"
+   },
+   {
+      "id": 4,
+      "name": "Procesador Ryzen 9",
+      "description": "lorem ipsum dolor amet sit",
+      "image": "1677108727887_products_.jpg"
+   },
+   {
+      "id": 5,
+      "name": "Procesador Intel I5",
+      "description": "lorem ipsum dolor amet sit",
+      "image": "1677108740276_products_.jpg"
+   },
+   {
+      "id": 6,
+      "name": "Procesador Intel I7",
+      "description": "lorem ipsum dolor amet sit",
+      "image": "1677108747111_products_.jpg"
+   },
+   {
+      "id": 7,
+      "name": "Procesador Intel I9",
+      "description": "lorem ipsum dolor amet sit",
+      "image": "1677108753209_products_.jpg"
    }
 ]

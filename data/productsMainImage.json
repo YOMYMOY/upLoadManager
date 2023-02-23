@@ -1,0 +1,35 @@
+[
+   {
+      "id": 1,
+      "name": "Notebook Gamer Asus ROG",
+      "description": "lorem ipsum dolor amet sit",
+      "mainImage": "1677110877497_products_note-asus01.jpg",
+      "images": [
+         "1677110877498_products_note-asus02.jpg",
+         "1677110877498_products_note-asus03.jpg",
+         "1677110877498_products_note-asus04.jpg"
+      ]
+   },
+   {
+      "id": 2,
+      "name": "Notebook Gamer Gigabyte Aero15",
+      "description": "lorem ipsum dolor amet sit",
+      "mainImage": "1677111605863_products_note-gigabyte01.jpg",
+      "images": [
+         "1677111605864_products_note-gigabyte02.jpg",
+         "1677111605864_products_note-gigabyte03.jpg",
+         "1677111605865_products_note-gigabyte04.jpg"
+      ]
+   },
+   {
+      "id": 3,
+      "name": "Notebook Gamer MSI Pulse",
+      "description": "lorem ipsum dolor amet sit",
+      "mainImage": "1677113574529_products_note-msi01.jpg",
+      "images": [
+         "1677113574530_products_note-msi02.jpg",
+         "1677113574530_products_note-msi03.jpg",
+         "1677113574530_products_note-msi04.jpg"
+      ]
+   }
+]
